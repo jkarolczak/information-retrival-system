@@ -1,0 +1,20 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Information_retrieval",
+    "collection_size": 1000,
+    "blacklist": [
+        "Special:",
+        "Template:",
+        "Help:",
+        "Category:",
+        "Wikipedia:",
+        "File:",
+        "Portal:",
+        "(identifier)",
+        "MediaWiki:",
+        "Wikipedia_talk:",
+        "Template_talk:",
+        "User_talk:",
+        "User:",
+        "Talk:"
+    ]
+}
